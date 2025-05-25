@@ -1,0 +1,2 @@
+# Kustomize
+Kustomize basic setup
